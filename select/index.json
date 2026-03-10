@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼよよん行進曲",
+  "base_artist": "はいだしょうこ(NHKおかあさんといっしょ)、今井ゆうぞう(NHKおかあさんといっしょ)",
+  "createdAt": "2026-03-10T16:07:37.093056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼよよん行進曲",
+      "artist": "はいだしょうこ(NHKおかあさんといっしょ), 今井ゆうぞう(NHKおかあさんといっしょ)",
+      "has_synced": false,
+      "path": "select/pl_01_ぼよよん行進曲_はいだしょうこ(NHKおかあさんといっしょ),_今井ゆうぞう(NHKおかあさんといっしょ).txt"
+    }
+  ]
+}
